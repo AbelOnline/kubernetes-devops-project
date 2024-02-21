@@ -9,4 +9,4 @@ spec:
     - protocol: TCP
       port: 5000
       targetPort: 5000   # Utilisez le port 5000 du conteneur
-  type: ClusterIP
+  type: NodePort
