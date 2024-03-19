@@ -1,7 +1,2 @@
-# kubernetes-devops-project
+# Transformation d'une app monolithique en microservice a l'aide d'un jenkinsfile
 
-If you come from the Kubernetes training, you're in the right place ! :) 
-
-Run the application :
-
-docker-compose up -d
